@@ -22,3 +22,5 @@ When running neural network and voting classifier experiments, I operationalized
 ## Results
 
 The highest f-1 score reported here was 0.51 for the days labeled 1 (dangerous days) and it was accomplished by running a neural network on Ward 17 with 1 hidden layer consisting of 7 neurons. The script used to arrive at that number can be found under the python file labeled nn_17.py inside of the Capstone folder.
+
+Also, a detailed script of code laying out the pipeline construction and voting classifier assembly can be found in the file titled ward_17.py in the Capstone folder. 
