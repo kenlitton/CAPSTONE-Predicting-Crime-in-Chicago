@@ -21,4 +21,4 @@ When running neural network and voting classifier experiments, I operationalized
 
 ## Results
 
-The work assembled here is a first step in the design a software that offers suggestions to officers who are on patrol. If police officers could get smarter about where to be and when to be there, then maybe we could prevent innocent people from being needlessly battered. Of the five wards analyzed here, ward 17 returned the greatest f-1 score of 0.51 upon assembling a neural network with one hidden layer consisting of ten neurons. 
+The work assembled here is a first step in the design a software that offers suggestions to officers who are on patrol. If police officers could get smarter about where to be and when to be there, then maybe we could prevent innocent people from being needlessly battered. Of the five Wards analyzed here, Ward 17 returned the greatest f-1 score of 0.51 upon assembling a neural network with one hidden layer consisting of ten neurons (and the work is shown in the file titled nn_17.py in the Capstone folder). 
