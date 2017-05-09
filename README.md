@@ -3,7 +3,7 @@ Capstone Project with General Assembly's Data Science Immersive Course
 
 ## Presentation
 
-If you would like to see my presentation in full then please follow this link (https://www.youtube.com/watch?v=CkJ9vXZzvGs&t=14s) and you can follow along with the slides that I have published here (https://docs.google.com/presentation/d/15WWtUiy4eWNHLzmTgsFPvc30j7INQzuPfNzq8Nd2mPo/pub?start=false&loop=true&delayms=3000)
+_If you have little to no technical background understanding of Data Science_ Then I would like to direct you to my presentation in full (https://www.youtube.com/watch?v=CkJ9vXZzvGs&t=14s) and you can follow along with the slides that I have published here (https://docs.google.com/presentation/d/15WWtUiy4eWNHLzmTgsFPvc30j7INQzuPfNzq8Nd2mPo/pub?start=false&loop=true&delayms=3000).
 
 ## Data
 
