@@ -18,8 +18,8 @@ With the help of Sci-kitLearn, I assembled pipelines to organize and transform i
 
 The reader can follow my step by step walkthrough of a SARIMA times series model in the Jupyter Notebook labeled Technical Report. The other modeling techniques explored here include a neural network (MLPClassifier) baggging and boosting ensemble methods (RandomForestClassifier, GradientBoostingClassifier, AdaBoostClassifier, VotingClassifier and ExtraTreesClassifier), KNeighborsClassifier, LogisticRegression and MulitnomialNB which are all part of the Sci-kitLearn package of programs.
 
-When running neural network and voting classifier experiments, I operationalized y into two classes. A 1 if the nunmber of batteries on a given day fell in the upper 25th percentile of batteries for that particular ward and a 0 otherwise. 
+When running neural network and voting classifier experiments, I operationalized y into two classes. A 1 if the number of batteries on a given day fell in the upper 25th percentile of batteries for that particular ward and a 0 otherwise. 
 
 ## Results
 
-The work assembled here is a first step in the design a software that offers suggestions to officers who are on patrol. If police officers could get smarter about where to be and when to be there, then maybe we could prevent innocent people from being needlessly battered. Of the five Wards analyzed here, Ward 17 returned the greatest f-1 score of 0.51 upon assembling a neural network with one hidden layer consisting of ten neurons (and the work is shown in the file titled nn_17.py in the Capstone folder). 
+The work assembled here is a first step in the design a software that offers suggestions to officers who are on patrol. If police officers could get smarter about where to be and when to be there, then maybe we could prevent innocent people from being needlessly battered. Of the five Wards analyzed here, Ward 17 returned the greatest f-1 score of 0.51 upon assembling a neural network with one hidden layer consisting of ten neurons (and the work can be found in the file titled nn_17.py in the Capstone folder). 
